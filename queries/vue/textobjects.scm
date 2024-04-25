@@ -3,6 +3,6 @@
 [
   (attribute)
   (directive_attribute)
-] @call.outer
+] @attribute.outer
 
-(attribute_value) @parameter.outer
+(attribute_value) @attribute.outer
