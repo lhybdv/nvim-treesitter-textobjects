@@ -4,5 +4,4 @@
   (attribute)
   (directive_attribute)
 ] @attribute.outer
-
-(attribute_value) @attribute.outer
+(attribute_value) @attribute.inner
